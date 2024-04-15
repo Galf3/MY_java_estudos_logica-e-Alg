@@ -1,5 +1,7 @@
 package Exemplos_logicAlg;
 
+
+
 public class OperadoresLógicos {
 	
 	public static void main(String[] args) {
